@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">K11-Wellness</string>
+    <string name="app_name">Wellness</string>
+    <string name="sentence_title_1">Sé el cambio que quieres ver en el mundo</string>
+    <string name="sentence_detail_1">Piénsalo: en lugar de esperar que otros tomen la iniciativa, debes actuar y ser un ejemplo. La transformación comienza desde adentro, y con acciones concretas, puedes inspirar a otros a seguir tus pasos. Cambia tu mundo, cambia el mundo.</string>
+    <string name="sentence_title_2">El pesimista ve dificultades en cada oportunidad. El optimista ve oportunidades en cada dificultad</string>
+    <string name="sentence_detail_2">Enfrentar desafíos es inevitable en la vida, pero nuestra perspectiva determina cómo los abordamos. Mientras algunos se centran en los obstáculos, otros buscan las posibilidades escondidas en ellos. Cultivar un enfoque positivo puede convertir retos en valiosas lecciones y puertas abiertas.</string>
+    <string name="sentence_title_3">No tienes que ser grande para empezar. Pero tienes que empezar para poder ser grande</string>
+    <string name="sentence_detail_3">Iniciar un camino puede ser intimidante y las dudas pueden surgir, pero el primer paso es esencial. A través de la acción y la perseverancia, lo que comienza como un pequeño esfuerzo puede transformarse en algo grandioso y significativo con el tiempo. La grandeza se construye paso a paso.</string>
+    <string name="sentence_title_4">No importa lo que te diga la gente, las palabras y las ideas pueden cambiar el mundo</string>
+    <string name="sentence_detail_4">A menudo, las voces más poderosas son aquellas que desafían lo establecido. Aunque algunos puedan dudar o desestimar tus pensamientos, nunca subestimes el impacto que pueden tener. Una idea, acompañada de la pasión y determinación adecuadas, puede ser la chispa que inicie revoluciones y transformaciones.</string>
+    <string name="sentence_title_5">La verdadera motivación procede de trabajar en cosas que nos importan</string>
+    <string name="sentence_detail_5">Cuando nos involucramos en proyectos y tareas que resuenan con nuestros valores y pasiones, el impulso y la energía fluyen naturalmente. No es solo una tarea o un trabajo; se convierte en una misión. Esta conexión personal es la que enciende la llama de la dedicación y el esfuerzo sostenido.</string>
 </resources>
