@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Wellness</string>
+    <string name="day">Día </string>
+
     <string name="sentence_title_1">Sé el cambio que quieres ver en el mundo</string>
     <string name="sentence_detail_1">Piénsalo: en lugar de esperar que otros tomen la iniciativa, debes actuar y ser un ejemplo. La transformación comienza desde adentro, y con acciones concretas, puedes inspirar a otros a seguir tus pasos. Cambia tu mundo, cambia el mundo.</string>
     <string name="sentence_title_2">El pesimista ve dificultades en cada oportunidad. El optimista ve oportunidades en cada dificultad</string>

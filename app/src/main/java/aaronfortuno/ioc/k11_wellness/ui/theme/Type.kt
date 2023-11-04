@@ -5,6 +5,7 @@ import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
@@ -25,13 +26,12 @@ val Typography = Typography(
     displayLarge = TextStyle(
         fontFamily = Agbalumo,
         fontWeight = FontWeight.Normal,
-        fontSize = 36.sp
-
+        fontSize = 24.sp
     ),
     headlineLarge = TextStyle(
         fontFamily = Quicksand,
         fontWeight = FontWeight.Light,
-        fontSize = 24.sp
+        fontSize = 20.sp,
     ),
     bodyLarge = TextStyle(
         fontFamily = Dosis,
